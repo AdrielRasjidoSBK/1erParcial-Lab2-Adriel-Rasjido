@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="includes\usuarios.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22993" topLine="12" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="186" />
+			<Collapse line="190" />
+			<Collapse line="199" />
+			<Collapse line="226" />
+			<Collapse line="289" />
+			<Collapse line="363" />
+			<Collapse line="396" />
+			<Collapse line="408" />
+			<Collapse line="433" />
+			<Collapse line="490" />
+			<Collapse line="502" />
+			<Collapse line="526" />
+			<Collapse line="555" />
+			<Collapse line="558" />
+			<Collapse line="561" />
+			<Collapse line="564" />
+			<Collapse line="571" />
+			<Collapse line="585" />
+			<Collapse line="631" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="468" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="includes\entrenamiento.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21263" topLine="32" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="236" />
+			<Collapse line="240" />
+			<Collapse line="248" />
+			<Collapse line="495" />
+			<Collapse line="500" />
+			<Collapse line="510" />
+			<Collapse line="587" />
+			<Collapse line="619" />
+			<Collapse line="631" />
+			<Collapse line="645" />
+			<Collapse line="659" />
+			<Collapse line="667" />
+			<Collapse line="746" />
+			<Collapse line="749" />
+			<Collapse line="752" />
+			<Collapse line="755" />
+		</Folding>
+	</File>
+	<File name="includes\prototipos.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1101" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="includes\menues.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19865" topLine="146" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="121" />
+			<Collapse line="265" />
+			<Collapse line="381" />
+		</Folding>
+	</File>
+	<File name="includes\visuales.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="245" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="18" />
+		</Folding>
+	</File>
+	<File name="includes\configuracion.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3867" topLine="115" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
